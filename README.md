@@ -2,16 +2,16 @@
 
 ![image](https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-Welcome. This is our Englis Reading Challenge!
+Welcome. This is our English Reading Challenge!
 
-Our main goal is to avaluate your English skills.
+Our main goal is to evaluate your English skills.
 When you feel ready to submit your answers, use the link we sent to your e-mail to post your answers!
-We will send you further instructions and your feedback then.
+We'll send you more instructions and your feedback then.
 
-Any doubts, don't hesitate to contact us on *contato.steamgroups@gmail.com*
+If you have any doubts, don't hesitate to contact us at *contato.steamgroups@gmail.com*
 Happy Hacking💙!
 
-<!-- > ⚠️ **Remember, your repository must be public, otherwise we won't be able to avaluate your answer** -->
+<!-- > ⚠️ **Remember, your repository must be public, otherwise we won't be able to evaluate your answer** -->
 
 ---
 
@@ -34,8 +34,8 @@ You can find the Text placed in [here](https://www.ncbi.nlm.nih.gov/pmc/articles
 #### 🤟 Your Questions
 
 - [ ] What is an AGI?
-- [ ] How NLP (Natural Language Processing) works and where can we use it?
-- [ ] Can you name 3 practical ways AI could help people with disability? How?
+- [ ] How does NLP (Natural Language Processing) work and where can we use it?
+- [ ] Can you name 3 practical ways AI could help disabled people? How?
 - [ ] About the negative impact of AI which concerns you the most? Why?
 
 ## ✔️ Avaluation Criteria
